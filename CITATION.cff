@@ -1,9 +1,8 @@
-@misc{vleedrih2024machine,
+@software{vleedrih2026machine,
   author       = {Vladyslav Palko},
-  title        = {Machine-guided path sampling for reaction mechanism discovery},
-  year         = {2024},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/Vleedrih/Machine-guided-path-sampling-for-reaction-mechanism-discovery}},
-  note         = {Accessed: 2026-07-29}
+  title        = {{Machine-guided path sampling for reaction mechanism discovery}},
+  year         = {2026},
+  month = {07},
+  url = {\url{https://github.com/Vleedrih/Machine-guided-path-sampling-for-reaction-mechanism-discovery}},
+  version = {1.0.0}
 }
